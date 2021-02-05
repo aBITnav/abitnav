@@ -20,3 +20,6 @@
   
 
 
+![Abitnav's github stats](https://github-readme-stats.vercel.app/api?username=abitnav&show_icons=true&hide_border=true)
+<br />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=abitnav.abitnav)

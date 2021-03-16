@@ -5,6 +5,7 @@
 [![Badge](https://cp-logo.vercel.app/atcoder/abitnav)](https://atcoder.jp/users/abitnav)
 [![Badge](https://leetcode-badge.haozibi.dev/v1cn/accepted-rate/abitnav.svg?logo=leetcode&color=ff5983)](https://Leetcode.com/abitnav)
 
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="abitnav"><a class="LI-simple-link" href='https://in.linkedin.com/in/abitnav?trk=profile-badge'>Abhinav Jha</a></div>
 
 <br>I am **Abhinav Jha**, final year undergraduate student at ***IIT Dhanbad***
 
@@ -23,6 +24,6 @@
 ![Abitnav's github stats](https://github-readme-stats.vercel.app/api?username=abitnav&show_icons=true&hide_border=true)
 <br />
 
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="abitnav"><a class="LI-simple-link" href='https://in.linkedin.com/in/abitnav?trk=profile-badge'>Abhinav Jha</a></div>
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=abitnav.abitnav)

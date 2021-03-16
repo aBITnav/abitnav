@@ -22,4 +22,7 @@
 
 ![Abitnav's github stats](https://github-readme-stats.vercel.app/api?username=abitnav&show_icons=true&hide_border=true)
 <br />
+
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="abitnav"><a class="LI-simple-link" href='https://in.linkedin.com/in/abitnav?trk=profile-badge'>Abhinav Jha</a></div>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=abitnav.abitnav)

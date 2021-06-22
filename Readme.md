@@ -20,8 +20,12 @@
 
   
 
+<a href="https://github.com/abitnav">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abitnav&theme=chartreuse-dark&hide_langs_below=1" />
+</a>
+<br />
 
-![Abitnav's github stats](https://github-readme-stats.vercel.app/api?username=abitnav&show_icons=true&hide_border=true)
+![Abitnav's github stats](https://github-readme-stats.vercel.app/api?username=abitnav&show_icons=true&hide_border=true&theme=chartreuse-dark)
 <br />
 
 

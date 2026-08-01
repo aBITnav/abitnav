@@ -1,19 +1,14 @@
 # Hi there, I'm Abhinav Jha (aBITnav) 👋 <img src="https://thumbs.gfycat.com/BowedExaltedDogwoodtwigborer-max-1mb.gif" width=80>
 
-[![Badge](https://cp-logo.vercel.app/codeforces/abitnav)](https://codeforces.com/profile/abitnav)
-[![Badge](https://cp-logo.vercel.app/codechef/abitnav)](https://www.codechef.com/users/abitnav)
-[![Badge](https://cp-logo.vercel.app/atcoder/abitnav)](https://atcoder.jp/users/abitnav)
-[![Badge](https://leetcode-badge.haozibi.dev/v1cn/accepted-rate/abitnav.svg?logo=leetcode&color=ff5983)](https://Leetcode.com/abitnav)
-
-Staff-track Software Engineer @ **Google** | Planet-Scale Databases | Enterprise Storage & High Availability | AI Automation
+Software, AI & Cloud Systems Engineer @ **Google** | Planet-Scale Databases | Enterprise Storage & High Availability | AI & Agent Orchestration
 
 ---
 
 ## 🚀 About Me
 
-I am a systems engineer specializing in **distributed databases, storage engines, and high-availability (HA) infrastructure**. Currently at Google Cloud, I design and build resilient, multi-region data protection and backup orchestration systems for cloud-scale database engines.
+I am a systems engineer specializing in the intersection of **distributed cloud databases, enterprise storage engines, and AI/LLM orchestration**. Currently at Google Cloud, I build resilient, multi-region data protection frameworks and self-healing backup systems for planet-scale databases.
 
-I focus on solving high-stakes architectural challenges where security, massive throughput, and extreme fault tolerance intersect. I enjoy optimizing query performance, building self-healing storage workflows, and leveraging Large Language Models (LLMs) to automate infrastructure.
+I focus on solving high-stakes cloud infrastructure challenges where security (CMEK), extreme fault tolerance, and massive throughput meet. Additionally, I am a pioneer in **agent-assisted engineering**, ranking in the **top 3% of Google** for LLM token usage and leveraging generative AI to build self-optimizing infrastructure.
 
 *Previously*, I was an undergraduate student at ***IIT Dhanbad*** pursuing majors in Computer Science and Engineering.
 
@@ -31,7 +26,7 @@ I focus on solving high-stakes architectural challenges where security, massive 
 | **🗄️ Planet-Scale Databases** | Query optimization, transaction boundaries, relational & non-relational engines. | Spanner, Cloud SQL, SQL Server, Indexing, Query Shifting |
 | **💾 Storage & Availability** | Enterprise-grade data protection, point-in-time recovery (PiTR), high availability SLAs. | High-Throughput Pipelines, Backup/Restore Engines, SLAs (99.9%+) |
 | **🌍 Multi-Region Systems** | Disaster Recovery (DR) replication, cross-region failovers, hybrid fallback strategies. | Cross-Region DR Replicas, Regional Fail-Open Policies, Blast Radius Mitigations |
-| **🤖 AI-Driven Infrastructure** | LLM-based system orchestration, automated capacity/backup planning, operational AI. | Gemini API, Infrastructure Automation, LLM-Assisted Scheduling |
+| **🤖 AI & Agent Orchestration** | LLM-based system orchestration, automated capacity/backup planning, operational AI. | Gemini API, Agent Frameworks (Jetski), LLM-Assisted Scheduling, NLP |
 
 ---
 
@@ -43,8 +38,17 @@ I focus on solving high-stakes architectural challenges where security, massive 
 |:---|:---|
 | **Core Languages** | C++, Java, Go, Python, SQL, Bash |
 | **Databases & Engines** | Google Spanner, Cloud SQL, AlloyDB, SQL Server, PostgreSQL, Redis |
-| **Cloud & Architecture** | Google Cloud Platform (GCP), System Design, Scalable Control Planes, IAM, VPC-SC |
-| **Tools & Infrastructure** | Git, Docker, Kubernetes, Terraform, gcloud CLI, Jupyter, Pandas |
+| **Cloud & Architecture** | Google Cloud Platform (GCP), AWS, System Design, Scalable Control Planes, IAM, VPC-SC |
+| **AI & Automation** | Gemini API, LLM Agents (Antigravity), NLP, Computer Vision (OpenCV) |
+| **Tools & Infrastructure** | Git, Docker, Kubernetes, Terraform, gcloud, Jupyter, Pandas |
+
+---
+
+### 🤖 AI Engineering & Developer Productivity
+
+- **AI-Powered Backup Optimization**: Won an internal Google AI Hackathon by designing and implementing **Schedule Suggester**, an intelligent agent powered by **Gemini Pro**. The tool analyzes database load profiles and transaction write-patterns to automatically propose cost-efficient, low-traffic backup windows.
+- **AI-Assisted Engineering Pioneer**: Positioned in the **top 10% of Google** for AI/LLM integration. Championed codebase readiness for AI tools by refactoring documentation across internal repositories to improve automated code synthesis.
+- **NLP & Document Understanding (Instabase)**: Designed and deployed NLP and machine learning models to extract key features and structures from complex, unstructured documents with strict SLA guarantees.
 
 ---
 
@@ -59,7 +63,7 @@ I focus on solving high-stakes architectural challenges where security, massive 
 
 ---
 
-## 📊 Github Performance Metrics
+## 📊 GitHub Performance Metrics
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aBITnav&show_icons=true&theme=radical" alt="Abhinav's GitHub Stats" height="150" />

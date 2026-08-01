@@ -69,7 +69,7 @@ I focus on solving high-stakes cloud infrastructure challenges where security (C
 
 ---
 
-## 📊 Github Performance Metrics
+## 📊 GitHub Performance Metrics
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aBITnav&show_icons=true&theme=radical" alt="Abhinav's GitHub Stats" height="150" />
